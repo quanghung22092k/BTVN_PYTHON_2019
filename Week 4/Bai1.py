@@ -1,4 +1,4 @@
-# Ban đầu tưởng hiêu cầu của đề là mã hóa
+# Ban đầu tưởng yêu cầu của đề là mã hóa :v
 # s = input()
 # x = ""
 # while s != "":
